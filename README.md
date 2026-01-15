@@ -79,7 +79,7 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 ## 🟩 Contribution Activity
 
-![GitHub Contribution Graph](https://github.com/pkk01.png)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkk01&theme=tokyo-night&hide_border=true)
 
 
 
