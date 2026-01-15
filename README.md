@@ -79,13 +79,10 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkk01&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pkk01&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkk01&layout=compact&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkk01&theme=tokyo-night&hide_border=true)
 
-</p>
 
 ---
 
