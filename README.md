@@ -1,38 +1,111 @@
-# Pratham Kumar 👋
-Full Stack • DevOps • System Design — 3rd Year B.Tech  
-Code it. Containerize it. Automate it.
-
-[![Status: Open to Internships](https://img.shields.io/badge/Status-Open%20to%20Internships-blue?logo=briefcase)](mailto:your.email@example.com)
-[![Location: India](https://img.shields.io/badge/Location-India-orange?logo=googlemaps)]()
-[![Tech](https://img.shields.io/badge/Tech-React%20|%20Django%20|%20Docker-lightgrey)]()
-
---- 
-
-Hi! I’m Pratham — I build full‑stack apps with a DevOps-first mindset. I focus on clean APIs, reliable infra, and fast developer workflows.
-
-Quick highlights
-- Backend ❤️: Django / DRF, Node.js (Express), Spring Boot  
-- Frontend ✨: React, Tailwind CSS, responsive UI  
-- DevOps ☸️: Docker, Docker Compose, basics of Kubernetes, Terraform, GitHub Actions  
-- DBs 🔗: PostgreSQL, MySQL, MongoDB, Redis
-
-Featured — LogiShift
-- Real-time delivery tracking (React + Django + PostgreSQL)
-- Dockerized, CI-ready, role-based access
-- Goal: scalable APIs + smooth deployment flow
-
-How I work
-- Small, testable increments → CI checks → containerized releases  
-- Infra as code + reproducible local dev (Docker)  
-- Docs + runbooks for handoffs
-
-Want to see more?
-- GitHub: https://github.com/pkk01
-- LinkedIn: https://linkedin.com/in/your-profile (replace)
-- Email: your.email@example.com (replace)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkk01&show_icons=true&theme=tokyonight" alt="GitHub stats" height="120"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I’m+Pratham+Kumar;Full+Stack+%2B+DevOps+Engineer;Backend+%26+System+Design+Focused;Building+Scalable+Web+Systems&center=true&width=600&height=50">
 </p>
 
-Let’s build something cool — ping me! 🚀
+<h1 align="center">🚀 Pratham Kumar</h1>
+
+<h3 align="center">
+Full Stack + DevOps Engineer | B.Tech 3rd Year Student
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamkumar01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratham%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+> 💡 *I design, build, and deploy scalable web applications with a strong focus on backend systems and cloud infrastructure.*
+
+- 🎓 **B.Tech 3rd Year Student**
+- ⚙️ Passionate about **Backend & System Design**
+- 🌐 Build complete **Full Stack Applications**
+- ☁️ Hands-on **Cloud & DevOps (Intermediate)**
+- 🚀 Turning ideas into **production-ready systems**
+
+---
+
+## 🧩 Tech Stack & Tools
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,terraform,ansible,jenkins,githubactions" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 LogiShift
+**Full Stack Delivery Tracking System**
+
+- Shipment creation & tracking  
+- REST API–driven backend  
+- Containerized deployment  
+
+**Tech Stack:**  
+`React` · `Django` · `PostgreSQL` · `Docker`
+
+---
+
+### 🛠️ Project Placeholder 1
+*Details coming soon…*
+
+### 🛠️ Project Placeholder 2
+*Details coming soon…*
+
+### 🛠️ Project Placeholder 3
+*Details coming soon…*
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 What I Focus On
+
+- ⚙️ Backend architecture & scalability
+- 🌐 End-to-end full stack systems
+- ☁️ Cloud infrastructure & CI/CD pipelines
+- 📦 Dockerized & automated deployments
+- 📚 Continuous learning & improvement
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/prathamkumar01/
+- 🤝 Open to **internships, projects & collaborations**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
