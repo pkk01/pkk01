@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I’m+Pratham+Kumar;Full+Stack+%2B+DevOps+Engineer;Backend+%26+System+Design+Focused;Building+Scalable+Web+Systems&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I’m+Pratham+Kumar;Full+Stack+%2B+DevOps+Engineer;Backend+%26+System+Design+Focused;Building+Scalable+Web+Systems&center=true&width=650&height=50">
 </p>
 
 <h1 align="center">🚀 Pratham Kumar</h1>
@@ -57,9 +57,9 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 ### 📦 LogiShift
 **Full Stack Delivery Tracking System**
 
-- Shipment creation & tracking  
-- REST API–driven backend  
-- Containerized deployment  
+- Shipment creation & real-time tracking  
+- REST API–driven backend architecture  
+- Containerized deployment with Docker  
 
 **Tech Stack:**  
 `React` · `Django` · `PostgreSQL` · `Docker`
@@ -80,11 +80,11 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkk01&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+  
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkk01&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkk01&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkk01&layout=compact&theme=tokyonight&hide_border=true)
+
 </p>
 
 ---
@@ -107,5 +107,5 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
