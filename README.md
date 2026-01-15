@@ -79,7 +79,7 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 ## 📈 GitHub Analytics
 
-[GitHub Streak](https://streak-stats.demolab.com?user=pkk01&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pkk01&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkk01&theme=tokyo-night&hide_border=true)
 
