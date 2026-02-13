@@ -84,6 +84,13 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pkk01&theme=tokyonight" />
+</p>
+
+---
 
 ## 🎯 What I Focus On
 
