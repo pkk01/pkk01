@@ -92,6 +92,19 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pkk01&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pkk01&theme=github_dark" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pkk01&theme=github_dark" alt="Top Languages by Repo" />
+</p>
+
+---
+
 ## 🎯 What I Focus On
 
 - ⚙️ Backend architecture & scalability
