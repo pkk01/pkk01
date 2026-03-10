@@ -66,8 +66,17 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 ---
 
-### 🛠️ Project Placeholder 1
-*Details coming soon…*
+### 🤖 TestPilot AI
+**AI-Powered QA Test Generation Platform**
+
+- Generate software test cases from requirements  
+- Convert requirements into Cucumber Gherkin scenarios  
+- Auto-generate Selenium step definition skeletons using AI  
+
+**Tech Stack:**  
+`Next.js` · `React` · `Tailwind` · `shadcn/ui` · `Supabase` · `PostgreSQL` · `Groq AI`
+
+---
 
 ### 🛠️ Project Placeholder 2
 *Details coming soon…*
