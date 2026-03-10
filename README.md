@@ -64,7 +64,7 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 **Tech Stack:**  
 `React` · `Django` · `PostgreSQL` · `Docker`
 
---
+<br>
 
 ### 🤖 TestPilot AI
 **AI-Powered QA Test Generation Platform**
