@@ -76,14 +76,17 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 **Tech Stack:**  
 `Next.js` · `React` · `Tailwind` · `shadcn/ui` · `Supabase` · `PostgreSQL` · `Groq AI`
 
----
+<br>
 
-### 🛠️ Project Placeholder 2
-*Details coming soon…*
+### 🎟️ EventEase  
+**Full Stack Event Booking Platform**
 
-### 🛠️ Project Placeholder 3
-*Details coming soon…*
+- Browse events and book seats with QR-coded PDF ticket generation  
+- Secure JWT authentication with role-based admin controls  
+- Admin dashboard for event management and user bookings  
 
+**Tech Stack:**  
+`React` · `Vite` · `Tailwind CSS` · `Django REST Framework` · `MongoDB`
 ---
 
 ## 🟩 Contribution Activity
