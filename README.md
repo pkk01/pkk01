@@ -78,15 +78,16 @@ Full Stack + DevOps Engineer | B.Tech 3rd Year Student
 
 <br>
 
-### 🎟️ EventEase  
+#### 🎟️ EventEase
 **Full Stack Event Booking Platform**
 
 - Browse events and book seats with QR-coded PDF ticket generation  
 - Secure JWT authentication with role-based admin controls  
-- Admin dashboard for event management and user bookings  
+- Admin dashboard for event and booking management  
 
 **Tech Stack:**  
 `React` · `Vite` · `Tailwind CSS` · `Django REST Framework` · `MongoDB`
+
 ---
 
 ## 🟩 Contribution Activity
