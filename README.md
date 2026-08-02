@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Pratham Kumar</h1>
 
 <h3 align="center">
-Full Stack + DevOps Engineer | B.Tech 3rd Year Student
+Full Stack + DevOps Engineer | B.Tech Final Year Student
 </h3>
 
 <p align="center">
